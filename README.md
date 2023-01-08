@@ -1,8 +1,7 @@
 # CS102_lab06
 
-Lab06
-
 Git and GitHub
+---------------
 
 Before starting the lab, go to GitHub by using your account and create your private repositories called CS102_lab06. Whenever you are done with one of the following parts of the lab you will need to add all of your changes, commit them and push them to corresponding private and remote repositories. Make sure that your repositories are indeed private because if they are not then anyone on the web will be able to copy your homework, which will get you into trouble. For every part of the lab, you should have at least one commit that has a clear message of what was implemented in that commit and for which part.
 
